@@ -1,0 +1,14 @@
+__pycache__/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Videos
+*.mp4
+
+#Data
+*.json
+
+#Folders
+*/runs/*

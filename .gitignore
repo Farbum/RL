@@ -1,0 +1,20 @@
+# Spyder project settings
+.spyderproject
+.spyproject
+
+#Folders
+*/runs/*
+./runs/*
+
+
+#Data
+*.json
+
+#Videos
+*.mp4
+
+#Models
+*.pt
+
+#HuggingFace
+*.pyc
